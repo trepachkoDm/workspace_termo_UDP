@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "thermo_client",
+	"thermo_server"
+]
